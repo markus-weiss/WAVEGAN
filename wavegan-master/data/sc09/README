@@ -1,0 +1,7 @@
+The Speech Commands 0-9 dataset (SC09) is a subset of the Speech Commands Dataset that only includes ten words: digits 'zero' through 'nine', released under the CC BY 4.0 ilcense (include):
+
+https://research.googleblog.com/2017/08/launching-speech-commands-dataset.html
+
+The subset is distributed here as TFRecords. These can be processed into WAV files by using the data/dump_tfrecords.py script from:
+
+https://github.com/chrisdonahue/wavegan
